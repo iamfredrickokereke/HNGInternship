@@ -30,9 +30,9 @@ body{
 h3{
   font-family: Sunflower;
   font-style: normal;
-  font-weight: bold;
+  font-weight: bolder;
   line-height: normal;
-  font-size: 18px;
+  font-size: 2em;
   text-align: center;
   color: #000;
 }
