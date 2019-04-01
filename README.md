@@ -1,2 +1,2 @@
-# HNGinternship4
+# HNGinternship
 Software Development Sponsored Internship by Hng
